@@ -1,0 +1,6 @@
+{
+  "appId": "com.tanvir.novaludo",
+  "appName": "Nova Ludo",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

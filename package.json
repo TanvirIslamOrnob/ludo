@@ -1,0 +1,16 @@
+{
+  "name": "nova-ludo",
+  "version": "1.0.0",
+  "description": "Nova Ludo - offline pass-and-play Ludo game",
+  "author": "Tanvir Islam",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
